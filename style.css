@@ -23,10 +23,8 @@ div.main{
     margin:30px auto ;
 }
 div.abmelden{
-    text-align: right;
-}
-div.neu{
-    text-align: left;
+    justify-content: space-between;
+    display: flex;
 }
 div.anmelden{
     text-align: right;
