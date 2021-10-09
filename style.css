@@ -3,7 +3,7 @@
     src: url(fonts/SourceSansPro-Bold.ttf);
 }
 body{
-    max-width: 750px;
+    max-width: 675px;
     margin:30px auto ;
     text-align: center;
     font-family: "sourcesanspro bold";
