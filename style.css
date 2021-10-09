@@ -13,3 +13,6 @@ body{
     background-blend-mode: normal;
     font-size: 2.25em;
 }
+p{
+    margin: 7.5px ;
+}
