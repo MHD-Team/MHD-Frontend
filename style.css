@@ -22,3 +22,6 @@ div.main{
     max-width: 675px;
     margin:30px auto ;
 }
+div.abmelden{
+    text-align: right;
+}
