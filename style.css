@@ -28,3 +28,9 @@ div.abmelden{
 div.neu{
     text-align: left;
 }
+div.anmelden{
+    text-align: right;
+}
+div.registrieren{
+    text-align: center;
+}
